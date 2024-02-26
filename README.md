@@ -2,20 +2,18 @@
 
 I'm just a curious about the world young fellow who tries his best at coding. 
 
-  📚 Math Student at <i>Wrocław University of Science and Technology</i> 🇵🇱
-  💪 Athlete
-  👨‍💻 Programmer
+  📚 Math Student at <i>Wrocław University of Science and Technology</i> 🇵🇱 <br>
+  💪 Athlete <br>
+  👨‍💻 Programmer <br>
 
 <hr>
-  🔭 I’m currently working on something cool ;)
-  🌱 I’m currently learning Algorithms, Maths, Machine/Deep Learning, Astrophysics
+  🔭 I’m currently working on something cool 😉 <br>
+  🌱 I’m currently learning Algorithms, Maths, Machine/Deep Learning, Astrophysics <br>
 
-✨<h2>Skills</h2>
-<hr>
-- Python, Dart
-- Pandas, Matplotlib, Seaborn, Scikit-Learn, SymPy, Flutter
-- Problem solving 
-- Efficient learning, Time management
+<h2>✨Skills</h2>
+▫️ Python, Dart <br>
+▫️ Pandas, Matplotlib, Seaborn, Scikit-Learn, SymPy, Flutter <br>
+▫️ Problem solving, Efficient learning, Time management <br>
 
 <!--
 **kacper-daniel/kacper-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
