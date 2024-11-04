@@ -18,7 +18,7 @@ I'm just a curious about the world young fellow who tries his best at coding.
 ▫️ Problem solving, Efficient learning, Time management, Research <br>
 
 <h4>Minor</h4>
-▫️ C++, MySQL, Golang <br>
+▫️ C++, MySQL <br>
 ▫️ Pandas, Matplotlib, Seaborn, Scikit-learn, SymPy, Pygame, Django <br>
 ▫️ Simple math, Data Engineering/Analysis <br>
 
