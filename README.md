@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-I'm just a curious about the world young fellow who tries his best at coding. 
-
   📚 Math Student at <i>Wrocław University of Science and Technology</i> 🇵🇱 <br>
   💪 Athlete <br>
   👨‍💻 Programmer <br>
 
 <hr>
-  🔭 I’m currently working on a Motion Imagery and Sound Imagery projects in PyTorch and some other fun minor apps 😉 <br>
-  🌱 I’m currently learning Maths, Machine/Deep Learning, DSA <br>
+  🔭 I’m currently working on a Motion Imagery and Sound Imagery projects in PyTorch <br>
+  🌱 I’m currently learning Maths, Machine/Deep Learning, CNNs, DSA <br>
 
 <h2>✨Skills</h2>
 
