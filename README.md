@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   📚 Math Student at <i>Wrocław University of Science and Technology</i> 🇵🇱 <br>
-  💪 Athlete <br>
+  💪 Hybrid Athlete <br>
   👨‍💻 Programmer <br>
 
 <hr>
