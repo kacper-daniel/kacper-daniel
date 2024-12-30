@@ -5,7 +5,7 @@
   👨‍💻 Programmer <br>
 
 <hr>
-  🔭 I’m currently working on a Motion Imagery and Sound Imagery projects in PyTorch <br>
+  🔭 I’m currently working on projects involving Motion Imagery and Sound Imagery in PyTorch <br>
   🌱 I’m currently learning Maths, Machine/Deep Learning, CNNs, DSA <br>
 
 <h2>✨Skills</h2>
