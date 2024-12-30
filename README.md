@@ -12,13 +12,13 @@
 
 <h4>Major</h4>
 ▫️ Python, Dart <br>
-▫️ PyTorch, Flutter <br>
+▫️ PyTorch, Scikit-learn, Pandas, Matplotlib, Flutter <br>
 ▫️ Problem solving, Efficient learning, Time management, Research <br>
 
 <h4>Minor</h4>
 ▫️ C++, MySQL <br>
-▫️ Pandas, Matplotlib, Seaborn, Scikit-learn, SymPy, Pygame, Django <br>
-▫️ Simple math, Data Engineering/Analysis <br>
+▫️ Seaborn, SymPy, Pygame, Django <br>
+▫️ Simple math, Data preprocessing/analysis <br>
 
 <!--
 **kacper-daniel/kacper-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
