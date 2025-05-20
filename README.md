@@ -5,20 +5,20 @@
   👨‍💻 Programmer <br>
 
 <hr>
-  🔭 I’m currently working on projects involving Motion Imagery and Sound Imagery in PyTorch <br>
-  🌱 I’m currently learning Maths, Machine/Deep Learning, CNNs, DSA <br>
+  🔭 I’m currently working on projects involving Motion Imagery in PyTorch, Machine Learning and Data Analysis <br>
+  🌱 I’m currently learning Maths, Machine Learning, CNNs <br>
 
 <h2>✨Skills</h2>
 
 <h4>Major</h4>
 ▫️ Python, Dart <br>
 ▫️ PyTorch, Scikit-learn, Pandas, Matplotlib, Flutter <br>
-▫️ Problem solving, Efficient learning, Time management, Research <br>
+▫️ Problem solving, Efficient learning, Time management, Scientific Research <br>
 
 <h4>Minor</h4>
-▫️ C++, MySQL <br>
-▫️ Seaborn, SymPy, Pygame, Django <br>
-▫️ Simple math, Data preprocessing/analysis <br>
+▫️ C++, MySQL, R <br>
+▫️ Seaborn, SymPy, SciPy, Pygame, Django <br>
+▫️ Math, Data preprocessing/analysis <br>
 
 <!--
 **kacper-daniel/kacper-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
