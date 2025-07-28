@@ -1,23 +1,23 @@
-### Hi there 👋
+### Hello there 👋
 
   📚 Math Student at <i>Wrocław University of Science and Technology</i> 🇵🇱 <br>
-  💪 Hybrid Athlete <br>
+  💪 Athlete <br>
   👨‍💻 Programmer <br>
 
 <hr>
-  🔭 I’m currently working on projects involving Motion Imagery in PyTorch, Machine Learning and Data Analysis <br>
+  🔭 I’m currently working on projects involving EEG, Motion Imagery, Machine Learning, PyTorch and Data Analysis <br>
   🌱 I’m currently learning Maths, Machine Learning, CNNs <br>
 
 <h2>✨Skills</h2>
 
 <h4>Major</h4>
-▫️ Python, Dart <br>
-▫️ PyTorch, Scikit-learn, Pandas, Matplotlib, Flutter <br>
+▫️ Python, PyTorch, Scikit-learn, Pandas, Matplotlib <br>
+▫️ Dart, Flutter <br>
 ▫️ Problem solving, Efficient learning, Time management, Scientific Research <br>
 
 <h4>Minor</h4>
 ▫️ C++, MySQL, R <br>
-▫️ Seaborn, SymPy, SciPy, Pygame, Django <br>
+▫️ SciPy, Pygame <br>
 ▫️ Math, Data preprocessing/analysis <br>
 
 <!--
